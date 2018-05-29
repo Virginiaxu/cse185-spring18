@@ -1,0 +1,36 @@
+# Project Proposal (3%)
+<a name="proposal"></a>
+**Due Tuesday, May 29 11:00am**
+
+No more than one page total, with a title and 3	sections, as described below:
+
+### Biological Question
+1 paragraph describing the scientific question you are trying to answer. no citations are required for the proposal.
+### Dataset
+1 paragraph describing the dataset used, which must meet the requirements specified above. Your description must include:
+
+* A description of what the data is (e.g. whole genome-sequencing, RNA-seq, the library set up, which organism, etc.)
+* The accession numbers (e.g., SRA numbers)
+* Data file sizes and formats
+* Publications linked with the data
+
+### Bioinformatics pipeline
+1 paragraph *briefly* summarizing how you plan to analyze the data. It is ok if you don't have every single detail yet. However, for your final report, your pipeline:
+
+* Must use at least 5 different software tools that contribute to the analysis. Downloading data soes not count, nor do sub-commands within a single piece of software or trivial commands (e.g. `cp`).
+* One of the software tools must be either: (1) a tool we haven't used in class, which you either install yourself or use a web version of or (2) an executable script (not just plotting) that you wrote for this project.
+
+### Proposal scoring
+
+Proposals are scored out of 6 points:
+
+* 1pt: Title, spelling, and grammar
+* 2pts: data meets guidelines above
+* 2pts: scientific question is clearly stated and makes sense to analyze using the chosen dataset
+* 1pt: Proposed pipeline seems plausible to complete in 2 weeks and demonstrates thought
+
+# Lightning Talk (2%)
+<a name="lightning"></a>
+**Sign up to present either Wednesday May 30, Monday June 4, or Monday June 6**
+
+A 60 second presentation to the class about what you’ve been working on. Include your project plans and any progress you’ve made. 
